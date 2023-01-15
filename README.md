@@ -1,29 +1,23 @@
-### Hi there 👋
+! [banner] (![546187](https://user-images.githubusercontent.com/116277311/212571589-dbc29db1-e5e8-4251-9ec1-8011e4693a62.jpg)
 
-<!--
-**Davifs488/Davifs488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Oi,Eu 👋</h1>
+<h1>sou Davi Ferreira da Silva</h1>
+<h3 align="center">Estou no segundo período do Curso Superior de Análise e Desenvolvimento de Sistema </h3>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=davifs488&label=Profile%20views&color=0e75b6&style=flat" alt="davifs488" /> </p>
 
+<p>- 🔭Trabalho em projetos pequenos nas linguagens C / C++ e java ,atravez dos Curso Dio e Workover.</p>
+<p>- Procurando entrar no mercado de trabalho nessa área  .</p>
 
-<h1 align="center">Oi,Eu👋 sou Davi Ferreira da Silva</h1><h3 align="center">Estudo em evolução em Linguagem C/C++ e Java</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=davifs488&label=Profile%20views&color=0e75b6&style=flat" alt="davifs488" /> </p>
-
-
-
-
-- 🔭Estou me dedicando em me aprimorar [C / C++ e java](Curso Dio e Workover)
-
-- Estou me aperfeiçoando **C / C++ , Java, MyQSL e Windows**- Procuro resolver os desafios **Exercícios**- Todos meus projeto vão esta [http://github.com/Davifs488](http://github.com/Davifs488)- Estou atualizando minha pagina [http://github.com/Davifs488](http://github.com/Davifs488)
+<p>- Estou me aperfeiçoando **C / C++ , Java, MyQSL e Windows**</p>
+<p>- Todos os meus projetos  vão estar (http://github.com/Davifs488)-  Pois estou atualizando minha pagina. </p> 
 
 
 
-- Pergunte-me 💬 👯🌱📝💻 👨 sobre Ask me about **C / C++ , Java e Windows**
+<p>- Contato ** Email:sildv45@gmail.com**- </p>
 
+<p>Sobre mim: (https://www.linkedin.com/in/davi-ferreira-da-silva-915a891a4)</p>
 
-
-
-
-- Contato: **sildv45@gmail.com**- Sobre mim: [https://www.linkedin.com/in/davi-ferreira-da-silva-915a891a4](https://www.linkedin.com/in/davi-ferreira-da-silva-915a891a4)
-
-- ⚡ 📫 📄 Não tenho muitos **Não sou engraçado.**
+<p>- ⚡  Sou focado,trabalho bem em equipe,gosto de desafios pois procuro estar me apefeiçoando  e atualizando sempre. </p>
 
 
 
@@ -41,3 +35,8 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davifs488&theme=dark" alt="davifs488" /></p>
+
+
+
+
+
