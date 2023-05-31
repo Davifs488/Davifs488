@@ -1,4 +1,4 @@
-! [banner] (![546187](https://user-images.githubusercontent.com/116277311/212571589-dbc29db1-e5e8-4251-9ec1-8011e4693a62.jpg)
+![banner](https://user-images.githubusercontent.com/116277311/212571589-dbc29db1-e5e8-4251-9ec1-8011e4693a62.jpg)
 
 <h1 align="center">Oi,Eu 👋</h1>
 <h1>sou Davi Ferreira da Silva</h1>
