@@ -2,13 +2,13 @@
 
 <h1 align="center">Oi,Eu 👋</h1>
 <h1>sou Davi Ferreira da Silva</h1>
-<h3 align="center">Estou no segundo período do Curso Superior de Análise e Desenvolvimento de Sistema </h3>
+<h3 align="center">Estou no terceiro período do Curso Superior de Análise e Desenvolvimento de Sistema </h3>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=davifs488&label=Profile%20views&color=0e75b6&style=flat" alt="davifs488" /> </p>
 
-<p>- 🔭Trabalho em projetos pequenos nas linguagens C / C++ e java ,atravez dos Curso Dio e Workover.</p>
+<p>- 🔭Trabalho em projetos pequenos nas linguagens C++ ,java ,spring boot ,html ,css atravez dos Curso Dio e Workover.</p>
 <p>- Procurando entrar no mercado de trabalho nessa área  .</p>
 
-<p>- Estou me aperfeiçoando **C / C++ , Java, MyQSL e Windows**</p>
+<p>- Estou me aperfeiçoando ** Java, Spring Boot, Css, Html, JavaScript, MyQSL e Windows**</p>
 <p>- Todos os meus projetos  vão estar (http://github.com/Davifs488)-  Pois estou atualizando minha pagina. </p> 
 
 
