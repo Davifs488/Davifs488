@@ -5,7 +5,7 @@
 <h3 align="center">Estou no terceiro período do Curso Superior de Análise e Desenvolvimento de Sistema </h3>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=davifs488&label=Profile%20views&color=0e75b6&style=flat" alt="davifs488" /> </p>
 
-<p>- 🔭Trabalho em projetos pequenos nas linguagens C++ ,java ,spring boot ,html ,css atravez dos Curso Dio e Workover.</p>
+<p>- 🔭Trabalho em projetos pequenos nas linguagens C++ ,java ,spring boot ,html ,css atravez dos Curso Udemy.</p>
 <p>- Procurando entrar no mercado de trabalho nessa área  .</p>
 
 <p>- Estou me aperfeiçoando ** Java, Spring Boot, Css, Html, JavaScript, MyQSL e Windows**</p>
