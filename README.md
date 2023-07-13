@@ -1,6 +1,9 @@
+![kisspng-computer-programming-software-developer-software-e-internet-computer-technology-5a6acebe984d15 7388213615169491826238](https://github.com/Davifs488/Davifs488/assets/116277311/ac5866aa-56f9-46a3-90d3-7b6e70b4117b)
+
 
 
 <h1 align="center">Oi,Eu 👋</h1>
+
 <h1>sou Davi Ferreira da Silva</h1>
 <h3 align="center">Estou no terceiro período do Curso Superior de Análise e Desenvolvimento de Sistema </h3>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=davifs488&label=Profile%20views&color=0e75b6&style=flat" alt="davifs488" /> </p>
