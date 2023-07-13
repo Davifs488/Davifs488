@@ -4,7 +4,7 @@
 
 <h1 align="center">Oi,Eu 👋</h1>
 
-<h1>sou Davi Ferreira da Silva</h1>
+<h1> Davi Ferreira da Silva</h1>
 <h3 align="center">Estou no terceiro período do Curso Superior de Análise e Desenvolvimento de Sistema </h3>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=davifs488&label=Profile%20views&color=0e75b6&style=flat" alt="davifs488" /> </p>
 
